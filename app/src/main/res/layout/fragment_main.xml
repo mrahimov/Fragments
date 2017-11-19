@@ -1,0 +1,40 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="nyc.c4q.fragmentsinclassex.fragements.MainFragment">
+
+   <EditText
+       android:id="@+id/fragment_edit_text"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/fragment_button01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="button 1"/>
+    <Button
+        android:id="@+id/fragment_button02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="button 2"/>
+    <Button
+        android:id="@+id/fragment_button03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="button 3"/>
+    <Button
+        android:id="@+id/fragment_button04"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="button 4"/>
+    <Button
+        android:id="@+id/fragment_button05"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="button 5"/>
+
+
+</LinearLayout>
